@@ -122,9 +122,13 @@ If the dataset has more than one experimental condition (e.g., different levels 
 If you use this code or findings in your research, please cite our paper:
 
 ```bash
-@inproceedings{costantini2026benchmarking,
-  title={Benchmarking ECG R-peak Detectors in Offline and Real-time Settings across Heterogeneous Datasets},
-  author={Costantini, Simone and Storm, F. A. and Bianchi, A. M.},
-  year={2026},
+@inproceedings{costantini_benchmarking_2026,
+	title = {Benchmarking {ECG} {R}-{Peak} {Detectors} in {Offline} and {Real}-{Time} {Settings} {Across} {Heterogeneous} {Datasets}},
+	copyright = {Creative Commons Attribution 4.0 International},
+	doi = {10.15203/99106-194-6-07},
+	language = {en},
+	publisher = {Innsbruck University Press},
+	author = {Costantini, Simone and Storm, Fabio Alexander and Bianchi, Anna Maria},
+	year = {2026},
 }
 ```
