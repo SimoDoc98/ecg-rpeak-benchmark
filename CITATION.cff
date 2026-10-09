@@ -1,0 +1,27 @@
+
+cff-version: 1.0.1
+message: "If you use this software in your research, please cite it using the metadata below and cite the associated publication."
+type: software
+title: "Benchmarking ECG R-Peak Detectors: Offline and Online Evaluation across Heterogeneous Datasets"
+authors:
+  - family-names: Costantini
+    given-names: Simone
+    orcid: "https://orcid.org/0009-0001-5104-6733"
+version: 1.0.1
+date-released: "2026-10-09"
+license: MIT
+repository-code: "https://github.com/SimoDoc98/ecg-rpeak-benchmark"
+keywords:
+  - ECG
+  - R-peak detection
+  - benchmarking
+  - heart rate variability
+  - offline evaluation
+  - online evaluation
+  - electrocardiography
+abstract: >-
+  A benchmarking framework for evaluating open-source ECG R-peak detection
+  algorithms across five heterogeneous datasets in offline and online
+  scenarios. The framework supports performance assessment using F1-Score,
+  Jitter F1, and computational time, as well as statistical comparisons
+  across datasets and window lengths.
